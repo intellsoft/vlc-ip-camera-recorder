@@ -29,3 +29,9 @@
 شما می توانید پوشه ذخیره فیلم را نام گذاری کنید، برای این کار متغیر زیر را تغییر دهید. حتما از حروف انگلیسی و بدون فاصله استفاده شود:
 - REM //CAM NAMES
 - SET cam1_name=FRONTLEFT
+
+## Authors
+
+- [@intellsoft](https://intellsoft.ir/)
+- Contact me on element messanger: [@intellsoft:matrix.org](https://matrix.to/#/@intellsoft:matrix.org)
+
